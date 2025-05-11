@@ -1,1 +1,1 @@
-# RNN-Classification-Churn
+# ANN-Classification-Churn
